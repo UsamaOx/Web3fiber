@@ -23,6 +23,9 @@ Install `three` alongside those packages. These are optional peer dependencies s
 
 ## Run the demo
 
+For step-by-step Windows PC instructions to run the demo or install Web3Fiber
+in another React project, see the [installation guide](docs/INSTALLATION.md).
+
 ```bash
 npm install
 npm install --prefix demo
